@@ -1,0 +1,25 @@
+﻿@model LocationMVC.Models.Appartement
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details for @Model.Name</h1>
+
+<div>
+    <p><strong>Description:</strong> @Model.Description</p>
+    <p><strong>Address:</strong> @Model.Address</p>
+    <p><strong>Number of Rooms:</strong> @Model.NumberOfRooms</p>
+    <p><strong>Phone number</strong> @Model.OwnerPhone</p>
+    <p><strong>Price:</strong> @Model.Price</p>
+    <p><strong>Owner:</strong> @Model.OwnerName </p>
+    <p><strong>Date Listed:</strong> @Model.DateListed.ToShortDateString()</p>
+
+    @if (!string.IsNullOrEmpty(Model.ImagePath))
+    {
+        <img src="@Model.ImagePath" width="200" />
+    }
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a> |
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

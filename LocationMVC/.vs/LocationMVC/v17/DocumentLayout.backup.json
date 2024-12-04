@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\migrations\\20241130173633_addimagepathtoappartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\migrations\\20241130173633_addimagepathtoappartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\views\\appartements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\views\\appartements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\views\\appartements\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\views\\appartements\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\views\\appartements\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\views\\appartements\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\views\\appartements\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\views\\appartements\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\views\\appartements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\views\\appartements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\controllers\\appartementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\controllers\\appartementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\models\\appartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\models\\appartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\migrations\\20241130121237_first-migation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\migrations\\20241130121237_first-migation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\locationmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\locationmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|c:\\users\\dell\\source\\repos\\locationmvc\\locationmvc\\locationmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C18D2012-46DC-49E8-87CD-33309381D462}|LocationMVC\\LocationMVC.csproj|solutionrelative:locationmvc\\locationmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241130173633_AddImagePathToAppartement.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Migrations\\20241130173633_AddImagePathToAppartement.cs",
+              "RelativeDocumentMoniker": "LocationMVC\\Migrations\\20241130173633_AddImagePathToAppartement.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Migrations\\20241130173633_AddImagePathToAppartement.cs",
+              "RelativeToolTip": "LocationMVC\\Migrations\\20241130173633_AddImagePathToAppartement.cs",
+              "ViewState": "AgIAABcAAAAASaAdCbQVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:36:34.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Index.cshtml",
+              "RelativeDocumentMoniker": "LocationMVC\\Views\\Appartements\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Index.cshtml",
+              "RelativeToolTip": "LocationMVC\\Views\\Appartements\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:32:02.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Details.cshtml",
+              "RelativeDocumentMoniker": "LocationMVC\\Views\\Appartements\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Details.cshtml",
+              "RelativeToolTip": "LocationMVC\\Views\\Appartements\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:31:00.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LocationMVC\\Views\\Appartements\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Delete.cshtml",
+              "RelativeToolTip": "LocationMVC\\Views\\Appartements\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:30:27.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Create.cshtml",
+              "RelativeDocumentMoniker": "LocationMVC\\Views\\Appartements\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Create.cshtml",
+              "RelativeToolTip": "LocationMVC\\Views\\Appartements\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:23:39.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appartement.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Models\\Appartement.cs",
+              "RelativeDocumentMoniker": "LocationMVC\\Models\\Appartement.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Models\\Appartement.cs",
+              "RelativeToolTip": "LocationMVC\\Models\\Appartement.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:16:40.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LocationMVC\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LocationMVC\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:57:48.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LocationMVC\\Views\\Appartements\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Views\\Appartements\\Edit.cshtml",
+              "RelativeToolTip": "LocationMVC\\Views\\Appartements\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T13:42:07.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppartementsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Controllers\\AppartementsController.cs",
+              "RelativeDocumentMoniker": "LocationMVC\\Controllers\\AppartementsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Controllers\\AppartementsController.cs",
+              "RelativeToolTip": "LocationMVC\\Controllers\\AppartementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:22:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241130121237_First-Migation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Migrations\\20241130121237_First-Migation.cs",
+              "RelativeDocumentMoniker": "LocationMVC\\Migrations\\20241130121237_First-Migation.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Migrations\\20241130121237_First-Migation.cs",
+              "RelativeToolTip": "LocationMVC\\Migrations\\20241130121237_First-Migation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:12:38.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Program.cs",
+              "RelativeDocumentMoniker": "LocationMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\Program.cs",
+              "RelativeToolTip": "LocationMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:02:32.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LocationMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\LocationMVC.csproj",
+              "RelativeDocumentMoniker": "LocationMVC\\LocationMVC.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\LocationMVC.csproj",
+              "RelativeToolTip": "LocationMVC\\LocationMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T10:33:10.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "LocationMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\appsettings.json",
+              "RelativeToolTip": "LocationMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T10:30:24.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LocationMVC",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\LocationMVC.csproj",
+              "RelativeDocumentMoniker": "LocationMVC\\LocationMVC.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LocationMVC\\LocationMVC\\LocationMVC.csproj",
+              "RelativeToolTip": "LocationMVC\\LocationMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T10:28:52.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
