@@ -1,0 +1,91 @@
+/* src/components/discover/Discover.css */
+
+/* Section Discover avec une image de fond */
+.discover-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5rem 0;
+    background-image: url('/images/p1.jpg'); /* Remplacez par le chemin de votre image */
+    background-size: cover; /* L'image couvre toute la section */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* L'image ne se répète pas */
+}
+
+.hero-left {
+    flex: 1;
+}
+
+.hero-title h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white; /* Couleur du texte en blanc */
+}
+
+.hero-des span {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: sandybrown; /* Couleur du texte en beige */
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+    .search-bar input {
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 30px 50px 30px 50px; /* Coins arrondis de manière différente pour un effet unique */
+        transition: all 0.3s ease; /* Ajout d'une transition pour un effet visuel lors du focus */
+    }
+
+        .search-bar input:focus {
+            outline: none; /* Retirer le contour par défaut du focus */
+            border-color: #007BFF; /* Changer la couleur de la bordure lorsqu'il est en focus */
+            box-shadow: 0 0 8px rgba(0, 123, 255, 0.5); /* Ajouter un léger ombrage */
+        }
+
+    .search-bar button {
+        background-color: #007BFF; /* Bouton avec couleur de fond bleue */
+        color: white; /* Texte du bouton en blanc */
+        border: none; /* Retirer la bordure par défaut */
+        padding: 10px 15px;
+        border-radius: 30px; /* Arrondir les coins du bouton */
+        cursor: pointer; /* Curseur pointer lors du survol */
+        transition: background-color 0.3s ease; /* Transition de couleur au survol */
+    }
+
+        .search-bar button:hover {
+            background-color: #0056b3; /* Changer la couleur du bouton au survol */
+        }
+
+.stats {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+    color: white; /* Couleur du texte en blanc pour .stats */
+}
+
+.stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white; /* Couleur du texte en blanc pour .stat */
+}
+
+.secondaryText {
+    font-size: 1.2rem;
+    color: #8B4513; /* Couleur marron */
+}
+
+
+.hero-right {
+    flex: 1;
+}
+
+    .hero-right .image-container img {
+        max-width: 60%;
+        height: auto;
+    }

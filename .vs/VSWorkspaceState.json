@@ -3,8 +3,14 @@
     "",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\Header"
+    "\\src\\components\\Companies",
+    "\\src\\components\\Discover",
+    "\\src\\components\\Header",
+    "\\src\\components\\Hero",
+    "\\src\\components\\Residencies",
+    "\\src\\components\\Value",
+    "\\src\\utils"
   ],
-  "SelectedNode": "\\src\\main.jsx",
+  "SelectedNode": "\\.env",
   "PreviewInSolutionExplorer": false
 }

@@ -1,38 +1,51 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "FOYER UNIVERSITAIRE EL MANAR 1",
+    "price": "240-250",
+    "detail":"RUE DE TOLEDE BLOC A. N°3 MANAR 1 TUNIS 2092 (A coté de Farm ranch El Manar)",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Residence BABEL",
+    "price": "850-1200",
+    "detail": "Rue Hajna 2083 Cité El Ghazala, Ariana",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "RESIDENCE LES PINS",
+    "price": "1000-1200",
+    "detail": "LE BARDO,au centre de bardo à quleques minutes du centre ville de Tunis",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "RESIDENCE AZIZ APPARTEMENTS",
+    "price": "1000-14000",
+    "detail": "LE LAC NORD - LAC 2 (Cité Les Pins)",
+    "image": "./r4.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "IMMOBILIERE SALAMMBO",
+    "price": "850-1000",
+    "detail": "7, rue Teimour, Menzah I, 1004 Tunis",
+    "image": "./r5.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "SYDONIA LA RESIDENCE",
+    "price": "700-1200",
+    "detail": "LA MARSA SOUKRA - LA SOUKRA FATTOUMA BOURGUIBA",
+    "image": "./r6.png"
+  },
+  {
+    "name": "RESIDENCE ZEINEB",
+    "price": "750-1200",
+    "detail": "HAMMAMET MREZGA - MREZGA CITE EL WAFA",
+    "image": "./r7.jpg"
+
+  },
+  {
+    "name": "THE RESIDENCE SOUKRA",
+    "price": "700-1200",
+    "detail": "EL AOUINA - LA NOUVELLE SOUKRA",
+    "image": "./r8.jpg"
   }
 ]
